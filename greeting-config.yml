@@ -4,6 +4,7 @@ security:
 management:
   security:
     enabled: false
+    
 logging:
   level:
     io:
