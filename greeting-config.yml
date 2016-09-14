@@ -13,4 +13,4 @@ logging:
 greeting:
   displayFortune: true
   
-quoteServiceURL: https://www.google.com/
+quoteServiceURL: https://quote-service-dev-cfapps.io/quote
