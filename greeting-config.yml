@@ -11,6 +11,6 @@ logging:
       pivotal: DEBUG
 
 greeting:
-  displayFortune:false
+  displayFortune: true
   
 quoteServiceURL: https://quote-service-dev-cfapps.io/quote
